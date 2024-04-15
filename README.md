@@ -8,11 +8,7 @@
 
 4)cd projectname - in order to come to main directory
 
-5)Type these two commands:
-  
-  i) python manage.py makemigrations myapp
-  ii) python manage.py migrate
-
+5)Type these two commands: i) python manage.py makemigrations myapp    ii) python manage.py migrate
 
 6)python manage.py runserver - to run this server  
 
