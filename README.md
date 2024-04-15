@@ -12,7 +12,7 @@
 
 6)python manage.py runserver - to run this server  
 
---Output-Screenshot------------------------
+--Output-Screenshot of the APIs------------------------
 
 -Create User
 
