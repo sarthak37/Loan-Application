@@ -17,6 +17,7 @@
 -Create User
 
 i)![Create-User-Success](https://github.com/sarthak37/Brightmoney-task/assets/52873771/ac5fa7ea-31ff-42db-9f6d-9dcea80d4f7d)
+
 ii)![Error](https://github.com/sarthak37/Brightmoney-task/assets/52873771/c78be3a0-53f5-4a4b-84bc-3c11cd7506e7)
 iii)![sql-collection-User](https://github.com/sarthak37/Brightmoney-task/assets/52873771/f111d91b-9a1d-481b-a69a-f3d5062a1bff)
 
