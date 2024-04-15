@@ -1,11 +1,18 @@
 ----How to run------------------------
+
 1)Clone the repo
+
 2)Make a virtual enviroment
+
 3)pip install requirements.txt -  to install dependencies
+
 4)cd projectname - in order to come to main directory
+
 5)Type these two commands:
+  
   i) python manage.py makemigrations myapp
   ii) python manage.py migrate
+
 6) python manage.py runserver - to run this server  
 
 --Output-Screenshot------------------------
