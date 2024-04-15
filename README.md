@@ -2,7 +2,7 @@
 
 1)Clone the repo
 
-2)Make a virtual enviroment
+2)Make a virtual environment
 
 3)pip install requirements.txt -  to install dependencies
 
