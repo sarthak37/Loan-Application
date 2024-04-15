@@ -37,9 +37,10 @@ i)![loan-status-A](https://github.com/sarthak37/Brightmoney-task/assets/52873771
 ii)![loan-status-B](https://github.com/sarthak37/Brightmoney-task/assets/52873771/12297eb8-2c83-4a76-b9a8-b267e9205690)
 iii)![loan-status-C](https://github.com/sarthak37/Brightmoney-task/assets/52873771/fa49119e-1ee5-4b0f-b11a-3f89e436d6f0)
 
--![loan-status-C](https://github.com/sarthak37/Brightmoney-task/assets/52873771/c48f3a11-bf44-4d06-b0fa-f7811c44abe5)
-i)![users-billing-remaining](https://github.com/sarthak37/Brightmoney-task/assets/52873771/8d39eb2e-dba6-44c0-9d30-5b068cd96f39)
-ii)![sql-collection-emi-paid-user-info](https://github.com/sarthak37/Brightmoney-task/assets/52873771/d5a43990-fb0b-4af6-8f95-da1be31ab257)
+-Cronjob
+i)![loan-status-C](https://github.com/sarthak37/Brightmoney-task/assets/52873771/c48f3a11-bf44-4d06-b0fa-f7811c44abe5)
+ii)![users-billing-remaining](https://github.com/sarthak37/Brightmoney-task/assets/52873771/8d39eb2e-dba6-44c0-9d30-5b068cd96f39)
+iii)![sql-collection-emi-paid-user-info](https://github.com/sarthak37/Brightmoney-task/assets/52873771/d5a43990-fb0b-4af6-8f95-da1be31ab257)
 
 
 
