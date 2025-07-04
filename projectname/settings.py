@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-xjq=@8zqup6_g=npfoisdt@3$uww97tcq=%e)6!w9$ng(k&myc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['your-app.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['sarthak-loan-emi-application.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 
